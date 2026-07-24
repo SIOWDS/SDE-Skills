@@ -7,7 +7,7 @@
 
 [![License](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](LICENSE)
 [![SDE](https://img.shields.io/badge/SDE-Show--Difference--Entanglement-0e5d4c.svg)](https://sdeuniverses.com)
-[![Skills](https://img.shields.io/badge/skills-3-orange.svg)](#skill-catalogue)
+[![Skills](https://img.shields.io/badge/skills-4-orange.svg)](#skill-catalogue)
 
 **SDE Skills** is an open-source collection of reusable AI-agent skills based on **SDE Ontology (Show–Difference–Entanglement / 显露—差异—纠缠)**, created by **Dr. Desheng Wang (王德生博士)**.
 
