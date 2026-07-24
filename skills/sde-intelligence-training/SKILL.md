@@ -5,9 +5,13 @@ description: Apply the public SDE Intelligence Training method (SDE提智内功)
 
 # SDE Intelligence Training · SDE提智内功
 
-Public edition v3.2, derived from the SDE Fine-Tuning framework created by Dr. Desheng Wang.
+**Direct value:** comprehensively raise an LLM's innovation intelligence so that it can generate **new ideas, new pathways and new value**, rather than merely produce a longer or more polished answer.
 
-This skill is a reasoning discipline for AI agents. It does not modify model weights. It injects a temporary generative prior and a set of verification gates into the working process.
+On the SDE Innovation Intelligence scale and in current comparative practice, ordinary LLM outputs are often evaluated around **125**. This skill targets the **140–150** range and, when combined with a strong question, domain knowledge, evidence and repeated validation, may support **paradigm-forming thought**.
+
+The scores are framework-based comparative evaluations—not human psychometric IQ, empirical proof by themselves, or a guarantee for every run.
+
+Public edition v3.2, derived from the SDE Fine-Tuning framework created by Dr. Desheng Wang.
 
 ## Objective
 
