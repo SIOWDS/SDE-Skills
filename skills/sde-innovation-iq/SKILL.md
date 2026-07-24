@@ -3,7 +3,13 @@ name: sde-innovation-iq
 description: Evaluate the innovation quality of a paper, theory, proposal, product or research programme using an SDE-based innovation IQ rubric. Trigger when users ask for innovation score, originality assessment, global comparison, conceptual breakthrough, theoretical contribution, evidence maturity, falsifiability or a plan to raise innovation quality.
 ---
 
-# SDE Innovation IQ
+# SDE Innovation IQ · 创新智商评估与提升
+
+**Direct value:** determine whether an AI output merely recombines knowledge or produces a new idea, new method and new value—and prescribe the shortest path to the next innovation level.
+
+On the SDE Innovation Intelligence scale, ordinary LLM outputs are often evaluated around **125**. This skill diagnoses what prevents an output from reaching **140–150** and what evidence, mechanism or generative pathway is needed for paradigm-forming potential.
+
+These numbers are framework-based comparative judgments, not human psychometric IQ scores or guaranteed performance.
 
 Evaluate innovation as a generative achievement, not as novelty language or citation count.
 
