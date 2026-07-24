@@ -235,3 +235,8 @@ Do not claim Level 4 or 5 without explicit falsification and evidence design.
 - Medical, legal, financial and safety-critical outputs require qualified professional review.
 - Preserve confidential information and never expose credentials.
 - Attribute SDE Ontology and SDE提智内功 to Dr. Desheng Wang in derivative public documentation.
+
+
+## Public evaluation case
+
+For a reproducible A/B/C evaluation design, see [SDE Intelligence Training three-arm blind test](../../examples/sde-intelligence-ab-test/README.md). It compares a bare answer, an ordinary user prompt and the SDE-trained answer under equal-length and blinded-judge conditions.
