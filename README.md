@@ -56,6 +56,10 @@ Ask naturally:
 - “使用 SDE提智内功，对这个判断进行三视角误差互消和反幻象检查。”
 - “评估这篇论文的创新智商，并给出可证伪的提升方案。”
 
+## Evaluation case
+
+- [Three-arm blind test for SDE Intelligence Training](examples/sde-intelligence-ab-test/README.md) — compares bare, ordinary-prompt and SDE-trained answers under equal-length and blinded-judge conditions.
+
 ## Repository roadmap
 
 - v0.1 — ontology, innovation evaluation, research forging and SDE intelligence training
