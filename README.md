@@ -8,6 +8,7 @@
 </p>
 
 <p align="center">
+  <a href="test-model/README.md">立即测试</a> ·
   <a href="#一分钟开始">一分钟开始</a> ·
   <a href="#sde-skills-的三大作用">三大作用</a> ·
   <a href="#skill-目录">Skill目录</a> ·
@@ -69,6 +70,27 @@ SDE Skills 是由 **王德生博士（Dr. Desheng Wang）** 创建的开源AI创
 提出一个观点 → 生成多条路径 → 建立可验证方法
 语言上的新颖 → 机制上的突破 → 创造真实价值
 ```
+
+## 立即测试：SDE Innovation Test Model
+
+不要只相信宣传，请用同一道问题亲自比较普通大模型和SDE Skill。
+
+[SDE Innovation Test Model](test-model/README.md) 会自动完成：
+
+1. 生成普通大模型回答；
+2. 生成SDE提智回答；
+3. 随机隐藏两份答案的身份；
+4. 从创新思想、创新路径和创新价值三个维度盲评；
+5. 输出0–100原始分及80–160 SDE创新智商；
+6. 保存完整JSON报告，便于复核和公开。
+
+```bash
+python test-model/sde_innovation_test.py \
+  --question "大学教育如何在AI时代重新创造价值？" \
+  --dry-run
+```
+
+**[打开测试模型与完整使用说明 →](test-model/README.md)**
 
 ## 一分钟开始
 
