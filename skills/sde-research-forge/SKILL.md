@@ -3,7 +3,11 @@ name: sde-research-forge
 description: Forge a research gap, theoretical conflict or interdisciplinary idea into a rigorous, field-native and testable academic contribution. Trigger for paper design, theory building, research questions, literature conflicts, conceptual models, hypotheses, falsification, journal positioning and transforming SDE reasoning into discipline-appropriate scholarship.
 ---
 
-# SDE Research Forge
+# SDE Research Forge · 创新研究锻造
+
+**Direct value:** turn a promising thought into a defensible innovation pathway—from explanatory fracture, through mechanism and evidence, to publishable academic value.
+
+This skill helps an AI produce not only a new idea, but also the research path, validation method and field contribution required for that idea to become real innovation.
 
 Turn a conceptual fracture into a publishable research programme.
 
