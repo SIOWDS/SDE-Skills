@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use SDE Skills or SDE Ontology in academic work, please cite it."
+title: "SDE Skills"
+type: software
+authors:
+  - family-names: "Wang"
+    given-names: "Desheng"
+    orcid: "https://orcid.org/0009-0009-8196-0030"
+repository-code: "https://github.com/SIOWDS/SDE-Skills"
+url: "https://sdeuniverses.com"
+license: Apache-2.0
+version: 0.1.0
+date-released: 2026-07-24
+keywords:
+  - SDE Ontology
+  - Show Difference Entanglement
+  - AI Skills
+  - Academic Research
+  - Innovation Evaluation
