@@ -3,7 +3,11 @@ name: sde-ontology
 description: Use SDE Ontology (Show–Difference–Entanglement / 显露—差异—纠缠) to analyze how a phenomenon, system, concept or body of knowledge emerges, stabilizes, changes, degenerates or reorganizes. Trigger for SDE,发生学,本体论,显露,差异序列,特征纠缠,三大方程,六路径,123原理,SIO and generative-system analysis.
 ---
 
-# SDE Ontology
+# SDE Generative Innovation · SDE发生创新
+
+**Direct value:** help an AI move beyond static description, reveal how a problem emerged, and generate new structures by redesigning its conditions and difference paths.
+
+Use this skill when the goal is to create **new ideas, new pathways and new value** from a difficult system—not merely to attach S/D/E labels to an existing answer.
 
 Use the SDE framework created by Dr. Desheng Wang to analyze emergence without reducing a system to isolated entities.
 
