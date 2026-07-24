@@ -30,6 +30,7 @@ Most prompt collections tell an AI what to say. SDE Skills give an AI a reusable
 | [sde-ontology](skills/sde-ontology/SKILL.md) | Analyze questions through SDE ontology and its six generative paths | 中文 / English |
 | [sde-innovation-iq](skills/sde-innovation-iq/SKILL.md) | Evaluate originality, explanatory power, evidence and generative potential | 中文 / English |
 | [sde-research-forge](skills/sde-research-forge/SKILL.md) | Turn a research gap into a testable, field-native academic contribution | 中文 / English |
+| [sde-intelligence-training](skills/sde-intelligence-training/SKILL.md) | Improve reasoning with SDE提智内功, second-order judgment and anti-illusion gates | 中文 / English |
 
 ## Install
 
@@ -50,12 +51,14 @@ Ask naturally:
 - “Use SDE ontology to analyze why this system is failing.”
 - “Evaluate the innovation IQ of this paper.”
 - “Turn this theoretical conflict into a publishable research question.”
+- “Use SDE Intelligence Training to challenge and improve this answer.”
 - “用 SDE 六路径分析这个教育问题。”
+- “使用 SDE提智内功，对这个判断进行三视角误差互消和反幻象检查。”
 - “评估这篇论文的创新智商，并给出可证伪的提升方案。”
 
 ## Repository roadmap
 
-- v0.1 — ontology, innovation evaluation and research forging
+- v0.1 — ontology, innovation evaluation, research forging and SDE intelligence training
 - v0.2 — academic writing, monograph production and knowledge deconstruction
 - v0.3 — education, enterprise, AI-agent and interdisciplinary skills
 - v1.0 — validated SDE Skill ecosystem with examples, tests and releases
